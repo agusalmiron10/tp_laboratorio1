@@ -28,7 +28,7 @@ int RestarNumeros(int,int);
  */
 int MultiplicarNumeros(int,int);
 
-/** \brief nos realiza la operacion division entre dos numeros ingresados por el usuario
+/** \brief se realiza la operacion division entre dos numeros ingresados por el usuario
  *
  * \param float  se Indica la variable flotante primerNumeroDividir
  * \param int  aca se Indica la variable entera segundoNumeroDividir

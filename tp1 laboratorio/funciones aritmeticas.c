@@ -47,7 +47,5 @@ long int FactorizarNumero(int numeroFactorial)
     {
        factorial=numeroFactorial*FactorizarNumero(numeroFactorial-1);
     }
-
     return factorial;
-
 }

@@ -7,7 +7,6 @@
 int main()
 {
 
-
     int opcion;
     int numeroUno;
     int numeroDos;
@@ -18,7 +17,6 @@ int main()
     int factorialA;
     int factorialB;
     int terminar;
-
      terminar=1;
     while(terminar==1)
 
@@ -36,11 +34,8 @@ int main()
 
         }
 
-
         switch(opcion)
         {
-
-
             case 1:
                     printf("Ingrese su primer numero: ");
                     scanf("%d", &numeroUno);
