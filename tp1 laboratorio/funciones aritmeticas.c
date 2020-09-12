@@ -17,9 +17,7 @@ int SumarNumeros(int primerNumeroSuma,int segundoNumeroSuma)
 int RestarNumeros(int primerNumeroResta,int segundoNumeroResta)
 {
     int resta;
-
     resta= primerNumeroResta - segundoNumeroResta;
-
     return resta;
 
 }
@@ -27,19 +25,14 @@ int RestarNumeros(int primerNumeroResta,int segundoNumeroResta)
 int MultiplicarNumeros(int primerNumeroMultiplicar,int segundoNumeroMultiplicar)
 {
     int multiplicar;
-
     multiplicar= primerNumeroMultiplicar * segundoNumeroMultiplicar;
-
     return multiplicar;
-
 }
 
 float DividirNumeros(float primerNumeroDividir,int segundoNumeroDividir)
 {
     float dividir;
-
     dividir= primerNumeroDividir / segundoNumeroDividir;
-
     return dividir;
 }
 
@@ -49,12 +42,11 @@ long int FactorizarNumero(int numeroFactorial)
 
     if(numeroFactorial==0)
     {
-        return 1;
+      return 1;
     }else
     {
        factorial=numeroFactorial*FactorizarNumero(numeroFactorial-1);
     }
-
 
     return factorial;
 

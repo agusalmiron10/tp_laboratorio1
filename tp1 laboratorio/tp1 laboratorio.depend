@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1599877832 source:c:\users\agust\onedrive\escritorio\tp1\tp_laboratorio1\tp1 laboratorio\funciones aritmeticas.c
+1599948002 source:c:\users\agust\onedrive\escritorio\tp1\tp_laboratorio1\tp1 laboratorio\funciones aritmeticas.c
 	<stdio.h>
 	<stdlib.h>
 	"funciones aritmeticas.h"
@@ -7,8 +7,9 @@
 1599877709 c:\users\agust\onedrive\escritorio\tp1\tp_laboratorio1\tp1 laboratorio\funciones aritmeticas.h
 	<stdio.h>
 
-1599878648 source:c:\users\agust\onedrive\escritorio\tp1\tp_laboratorio1\tp1 laboratorio\main.c
+1599947784 source:c:\users\agust\onedrive\escritorio\tp1\tp_laboratorio1\tp1 laboratorio\main.c
 	<stdio.h>
+	<conio.h>
 	<stdlib.h>
 	"funciones aritmeticas.h"
 

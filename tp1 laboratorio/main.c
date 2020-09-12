@@ -78,8 +78,6 @@ int main()
                     {
                          printf("\nEl factorial de %d es: no se puede factorizar un numero negativo", numeroUno);
 
-
-
                     }
 
                     else{
@@ -92,28 +90,18 @@ int main()
 
                      if (numeroDos<0 )
                     {
-                         printf("\n El factorial de %d es: no se puede factorizar un numero negativo",numeroDos);
-
-
-
+                         printf("\nEl factorial de %d es: no se puede factorizar un numero negativo",numeroDos);
                     }
 
                     else{
 
-                         printf("\n  El factorial de %d es: %d",  numeroDos,factorialB);
+                         printf("\nEl factorial de %d es: %d",  numeroDos,factorialB);
 
 
                     }
 
-
-
-
                     printf("\nEl resultado de %d+%d es: %d",numeroUno, numeroDos, suma);
-
-
                     printf("\nEl resultado de %d-%d es: %d",numeroUno, numeroDos, resta);
-
-
                     printf("\nEl resultado de %d*%d es: %d",numeroUno, numeroDos, multiplicar);
 
                     if (numeroDos==0)
@@ -121,13 +109,10 @@ int main()
                         printf("Error,No es posible dividir por 0, vuelva a ingresar los numeros.\n");
 
                     }
-
-
                     printf("\nEl resultado de %d/%d es: %.2f\n",numeroUno, numeroDos, dividir);
 
-            break;
-
-            case 5:
+                    break;
+             case 5:
                     printf("\nGracias vuelva nuevamente \n");
                     terminar=0;
             break;

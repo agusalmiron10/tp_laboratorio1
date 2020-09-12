@@ -3,14 +3,14 @@
 
 /** \brief Se realiza la operacion sumar entre dos numeros ingresados por el usuario
  *
- * \param int Indicamos la variable entera primerNumeroSuma
- * \param int Indicamos la variable entera segundoNumeroSuma
+ * \param int  se Indica la variable entera primerNumeroSuma
+ * \param int  se Indica la variable entera segundoNumeroSuma
  * \return int Nos devuelve un numero entero
  *
  */
 int SumarNumeros(int,int);
 
-/** \brief Se realiza la operacion resta entre dos numeros ingresados por el usuario
+/** \brief  se  realizo la operacion resta entre dos numeros que son  ingresados por el usuario
  *
  * \param int Indicamos la variable entera primerNumeroResta
  * \param int Indicamos la variable entera segundoNumeroResta
@@ -19,27 +19,27 @@ int SumarNumeros(int,int);
  */
 int RestarNumeros(int,int);
 
-/** \brief Se realiza la operacion multiplicacion entre dos numeros ingresados por el usuario
+/** \brief  se realizo  la operacion multiplicacion entre dos numeros ingresados por el usuario
  *
- * \param int Indicamos la variable entera primerNumeroMultiplicar
- * \param int Indicamos la variable entera segundoNumeroMultiplicar
- * \return int Nos devuelve un numero entero
+ * \param int se Indicala variable entera primerNumeroMultiplicar
+ * \param int  se Indica la variable entera segundoNumeroMultiplicar
+ * \return int se  devuelve un numero entero
  *
  */
 int MultiplicarNumeros(int,int);
 
-/** \brief Se realiza la operacion division entre dos numeros ingresados por el usuario
+/** \brief nos realiza la operacion division entre dos numeros ingresados por el usuario
  *
- * \param float Indicamos la variable flotante primerNumeroDividir
- * \param int Indicamos la variable entera segundoNumeroDividir
+ * \param float  se Indica la variable flotante primerNumeroDividir
+ * \param int  aca se Indica la variable entera segundoNumeroDividir
  * \return float Nos devuelve un numero flotante
  *
  */
 float DividirNumeros(float,int);
 
-/** \brief Se realiza la operacion factorial entre dos numeros ingresados por el usuario
+/** \brief Se realiza aca  la operacion factorial entre dos numeros ingresados por el usuario
  *
- * \param int Indicamos la variable entera numeroFactorial
+ * \param int se indica la variable entera numeroFactorial
  * \return long int Nos devuelve un numero entero
  *
  */
